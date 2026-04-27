@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "inverter-monitoring",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0aedb307-af20-44e1-9121-e59eec82ea59",
+			"database_name": "db-inverter"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
